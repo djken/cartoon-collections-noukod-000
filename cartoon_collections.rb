@@ -8,7 +8,6 @@ def roll_call_dwarves(array)
 end
 roll_call_dwarves(array)
 
-
 arr = ["earth", "wind", "fire", "water", "heart"]
 def summon_captain_planet(array)
    planeteer_calls = []
