@@ -7,6 +7,7 @@ def roll_call_dwarves(array)
     end
 end
 roll_call_dwarves(array)
+<<<<<<< HEAD
 
 
 arr = ["earth", "wind", "fire", "water", "heart"]
@@ -14,7 +15,8 @@ def summon_captain_planet(array)
    planeteer_calls = []
     array.collect do |calls|
       planeteer_calls << "#{calls.capitalize}!"
-=======
+end
+end
 
 
 def summon_captain_planet# code an argument here
